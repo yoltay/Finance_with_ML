@@ -34,7 +34,7 @@ selenium==4.16.0
 statsmodels==0.14.0
 streamlit==1.37.0
 ta==0.10.2
-tensorflow==2.15.0.post1
+tensorflow==2.15.0
 textblob==0.17.1
 tweepy==4.14.0
 twilio==8.11.0
