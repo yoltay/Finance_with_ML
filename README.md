@@ -30,9 +30,9 @@ Visual tools for popular technical indicators like Bollinger Bands, RSI, and MAC
 To get started, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/shashankvemuri/Finance.git
-cd Finance
-pip install -r requirements.txt
+git clone https://github.com/yoltay/Finance_with_ML.git
+cd Finance_with_ML
+pip install --use-deprecated=legacy-resolver -r requirements.txt
 ```
 
 ## Usage
